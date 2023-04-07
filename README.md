@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subhamdhara
-- 👀 I’m interested python and opencv
+- 👀 I’m interested in python and opencv
 - 🌱 I’m currently learning python
 - portfolio - https://subhamdhara.github.io/
 
